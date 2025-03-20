@@ -1,13 +1,13 @@
 
 <br clear="both">
-<h1 align="left">Hello, i'm Rodrigo.</h1>
+<h1 align="left">Hello, i'm Rodrigo.👋👋</h1>
 <br clear="both">
 <p align="left">I'm passionate about creating innovative solutions and exploring new technologies. <br><br>My interests include:<br> 
 
- - Web Development: I enjoy working on both frontend and backend projects, using technologies like React, Angular, Java, Spring, etc.<br><br> 
- -   Desktop Application Development: I'm interested in creating programs that run on operating systems like Windows using languages such as Java, C#.<br><br>
- -  Artificial Intelligence and Machine Learning: I'm fascinated by the potential of systems that can learn and improve their performance with data.<br><br>
-I'm excited to share my projects and learnings on GitHub. Here, I aim to collaborate with others, learn from their experiences, and contribute to the open-source community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.
+ - Web Development: I enjoy working on both frontend and backend projects, using technologies like React, Angular, Java, Spring, etc.🖥️🌐<br><br> 
+ - Desktop Application Development: I'm interested in creating programs that run on operating systems like Windows using languages such as Java, C#.🖥️📊<br><br>
+ - Artificial Intelligence and Machine Learning: I'm fascinated by the potential of systems that can learn and improve their performance with data.🧠🤖<br><br>
+I'm excited to share my projects and learnings on GitHub. Here, I aim to collaborate with others, learn from their experiences, and contribute to the open-source community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.📚
 </p>
 
 ###
