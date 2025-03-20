@@ -1,7 +1,6 @@
 
 <br clear="both">
 <h1 align="left">Hello, i'm Rodrigo.</h1>
-###
 <br clear="both">
 <p align="left">I'm passionate about creating innovative solutions and exploring new technologies. <br><br>My interests include:<br> 
 
