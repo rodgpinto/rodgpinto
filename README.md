@@ -7,7 +7,8 @@
  - Web Development: I enjoy working on both frontend and backend projects, using technologies like React, Angular, Java, Spring, etc.<br><br> 
  -   Desktop Application Development: I'm interested in creating programs that run on operating systems like Windows using languages such as Java, C#.<br><br>
  -  Artificial Intelligence and Machine Learning: I'm fascinated by the potential of systems that can learn and improve their performance with data.<br><br>
-I'm excited to share my projects and learnings here on GitHub, where I aim to collaborate with others, learn from their experiences, and contribute to the open-source community. Feel free to explore my repositories and reach out if you have any questions or suggestions</p>
+I'm excited to share my projects and learnings on GitHub. Here, I aim to collaborate with others, learn from their experiences, and contribute to the open-source community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.
+</p>
 
 ###
 
