@@ -1,19 +1,22 @@
 
+###
 <br clear="both">
-<h1 align="left">Hello, i'm Rodrigo.👋👋</h1>
-<br clear="both">
-<p align="left">I'm passionate about creating innovative solutions and exploring new technologies. <br><br>My interests include:<br> 
 
- - Web Development: I enjoy working on both frontend and backend projects, using technologies like React, Angular, Java, Spring, etc.🖥️🌐<br><br> 
+<h1 align="left">Hello, i'm Rodrigo.👋👋</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">- Web Development: I enjoy working on both frontend and backend projects, using technologies like React, Angular, Java, Spring, etc.🖥️🌐<br><br> 
  - Desktop Application Development: I'm interested in creating programs that run on operating systems like Windows using languages such as Java, C#.🖥️📊<br><br>
  - Artificial Intelligence and Machine Learning: I'm fascinated by the potential of systems that can learn and improve their performance with data.🧠🤖<br><br>
-I'm excited to share my projects and learnings on GitHub. Here, I aim to collaborate with others, learn from their experiences, and contribute to the open-source community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.📚
-</p>
+I'm excited to share my projects and learnings on GitHub. Here, I aim to collaborate with others, learn from their experiences, and contribute to the open-source community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.📚</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodgpinto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodgpinto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rodgpinto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
@@ -47,8 +50,7 @@ I'm excited to share my projects and learnings on GitHub. Here, I aim to collabo
 
 ###
 
-<img src="https://raw.githubusercontent.com/rodgpinto/rodgpinto/output/snake.svg?dummy=$(date +%s)" alt="Snake animation"/>
-
+<img src="https://raw.githubusercontent.com/rodgpinto/rodgpinto/output/snake.svg" alt="Snake animation" />
 
 ###
 
